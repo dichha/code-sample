@@ -9,6 +9,12 @@ Screens
 4) Result screen
 <img src="polls/static/polls/images/result.png" height="140" width="300"/>
 
+Feature of the project
+================================
+
+As a poll administrator, when I create a Choice for a Question, I need to choose what color the Choice will appear as to the users who vote on them. I must be able to specify any valid web color in hex triplet format (https://en.wikipedia.org/wiki/Web_colors#Hex_triplet). Whenever a voter views a Choice, its font-color should be the color that I specified. I will be able to specify a different color for each Choice, but Choice colors don't need to be unique.
+
+
 
 Set Up
 ======
@@ -45,10 +51,6 @@ pip install -r requirements.txt
 
 This project is a git repository, so you should also download and install [git](https://git-scm.com/downloads).
 
-Feature of the project
-================================
-
-As a poll administrator, when I create a Choice for a Question, I need to choose what color the Choice will appear as to the users who vote on them. I must be able to specify any valid web color in hex triplet format (https://en.wikipedia.org/wiki/Web_colors#Hex_triplet). Whenever a voter views a Choice, its font-color should be the color that I specified. I will be able to specify a different color for each Choice, but Choice colors don't need to be unique.
 
 
 
