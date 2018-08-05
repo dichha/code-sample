@@ -1,3 +1,11 @@
+Screens
+=======
+1) Polls screen
+2) Poll-choice screen
+3) Choice screen
+4) Result screen
+
+
 Set Up
 ======
 These set up instructions assume that the user's operating system is either Mac OS X or Linux. To run this project, download and install the latest version of [python3](https://www.python.org/downloads/). Next, download and [install virtualenv](https://virtualenv.pypa.io/en/latest/installation.html):
