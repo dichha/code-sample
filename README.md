@@ -1,9 +1,13 @@
 Screens
 =======
 1) Polls screen
+<img src="polls/static/polls/images/polls.png" height="100" width="200"/>
 2) Poll-choice screen
+<img src="polls/static/polls/images/choice.png" height="100" width="200"/>
 3) Choice screen
+<img src="polls/static/polls/images/choice-taken.png" height="100" width="200"/>
 4) Result screen
+<img src="polls/static/polls/images/result.png" height="100" width="200"/>
 
 
 Set Up
