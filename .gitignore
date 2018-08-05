@@ -1,7 +1,8 @@
-*.log
-*.pot
-*.pyc
+
+# Byte-compiles/optimized/DLL files
+*.py[cod]
 __pycache__/
-local_settings.py
+
+# Django related
 db.sqlite3
-media
+
